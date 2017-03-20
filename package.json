@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-telegram-bot-api": "^0.27.0",
+    "serialport": "^4.0.7"
+  }
+}
